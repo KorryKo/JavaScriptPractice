@@ -143,8 +143,6 @@ function haveBarrier(unit) {
 }
 
 
-
-
 function createFood() {
     let foodCreated = false;
 
